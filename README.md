@@ -1,2 +1,2 @@
 # STAT-413-Project-Code
-This provides the replication code for our STAT 413 Project. Please see the ReadMe for more information.
+This provides the replication code for my ECON 497 Project.
